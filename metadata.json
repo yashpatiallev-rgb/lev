@@ -1,0 +1,6 @@
+{
+  "name": "Kala — Calm Adaptive Schedule & Life Rhythm",
+  "description": "A calm, adaptive schedule and life organizer that transforms messy natural language into structured daily harmony.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
